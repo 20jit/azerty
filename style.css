@@ -1,0 +1,65 @@
+body{
+  background-color:#9CD0F3;
+  margin:0px;
+}
+
+header{
+	background-color: #BC23E9;
+	padding: 2px;
+
+}
+ 
+h1{
+    color:black;
+    font-size:50px;
+    text-align: center;
+    font-family: Georgia, serif;
+    margin: 0px;
+}
+
+p{
+text-align: center;
+margin:0px;
+font-size: 30px;
+font-family: Comic Sans MS;
+
+}
+
+ul{
+	text-align: center;
+	margin-top:50px;
+
+}
+
+ul li{
+	display:inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	border: 4mm ridge #BC23E9;
+	padding: 15px;
+	margin-right: 10px;
+}
+
+ul li a:hover{
+	background-color: #BC23E9;
+}
+
+.intro {
+	margin-top: 80px;
+	margin-left:150px;
+	margin-right:150px;
+	font-size: 30px;
+	font-family: serif;
+	text-align:center; 
+
+
+}
+
+.choix {
+
+	color:#0569AC;
+
+
+}
